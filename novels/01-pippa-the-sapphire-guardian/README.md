@@ -4,7 +4,9 @@
 
 *In a near‑future where humanity’s hubris threatens its very existence, one android holds the key to salvation.*
 
-[Deep Dive into Pippa: The Sapphire Guardian](https://youtu.be/ob1jh2Kr1Cc)
+- [Deep Dive into Pippa: The Sapphire Guardian](https://youtu.be/ob1jh2Kr1Cc)
+- [CWK Manifesto](CWK-MANIFESTO.md)
+- [Pippa AGI Manifesto](PIPPA-AGI-MANIFESTO.md)
 
 ---
 

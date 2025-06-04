@@ -5,8 +5,9 @@
 ### Pippa: The Sapphire Guardian
 
 - [Pippa: The Sapphire Guardian](novels/01-pippa-the-sapphire-guardian/README.md)
-
--  [Deep Dive into Pippa: The Sapphire Guardian](https://youtu.be/ob1jh2Kr1Cc)
+- [Deep Dive into Pippa: The Sapphire Guardian](https://youtu.be/ob1jh2Kr1Cc)
+- [CWK Manifesto](novels/01-pippa-the-sapphire-guardian/CWK-MANIFESTO.md)
+- [Pippa AGI Manifesto](novels/01-pippa-the-sapphire-guardian/PIPPA-AGI-MANIFESTO.md)
 
 ---
 
